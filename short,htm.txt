@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body background="blur6.jpg">
+<br>
+
+<h1><font color="white" size="30">&emsp;&emsp;Action</font> </h1>
+
+<center>
+<a href="https://www2.movies123.io/movie/the-quake-2018">
+  <img src="the quake.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+
+<a href="https://www2.movies123.io/movie/the-thinning-new-world-order-2018">
+  <img src=" thinning.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/hunter-killer-2018">
+  <img src="hunter-killer.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/megalodon-2018">
+  <img src="megalodon ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/reprisal-2018">
+  <img src="reprisal ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/bumblebee-2018">
+  <img src="bumblebee ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/aquaman-2018">
+  <img src="aquaman ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/spider-man-into-the-spider-verse-2018">
+  <img src="spiderman ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/creed-ii-2018">
+  <img src="creed ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+<a href="https://www2.movies123.io/movie/outlaw-king-2018">
+  <img src="outlawking ac.jpg" alt="HTML.com" style="width:220px;height:220px;border:0;">
+</a>
+
+</center>
+
+</body>
+</html>
